@@ -6,18 +6,18 @@ to present the data in a clear and informative manner. Here's a detailed descrip
 offer:
 
 ## Category-wise Sales
-- **Furniture**: ₹836,154
-- **Office Supplies**: ₹742,000
-- **Technology**: ₹719,047
+- **Furniture**: ₹742,000
+- **Office Supplies**: ₹719,047
+- **Technology**: ₹836,154
 
 This pie chart reveals that the Furniture category leads in sales, followed by Office Supplies and Technology.
 It highlights the product categories that contribute most to the revenue.
 
 ## Region-wise Sales
-- **Central**: ₹725,458
-- **East**: ₹501,240
+- **Central**: ₹501,240
+- **East**: ₹678,781
 - **South**: ₹391,722
-- **West**: ₹678,781
+- **West**: ₹725,458
 
 The pie chart here shows sales distribution across different regions, with the Central region generating the highest sales. 
 Understanding regional performance helps in tailoring marketing strategies and resource allocation.
@@ -40,13 +40,13 @@ The sales segment pie chart shows that consumers make up the largest portion of 
 This segmentation helps in understanding the target audience and developing appropriate marketing strategies.
 
 ## Total Sales by Sub-Category
-- **Phones**: ₹390,007
+- **Phones**: ₹330,007
 - **Storage**: ₹328,449
 - **Binders**: ₹223,844
-- **Accessories**: ₹209,696
+- **Accessories**: ₹206,966
 - **Bookcases**: ₹203,413
-- **Furnishings**: ₹189,259
-- **Supplies**: ₹167,880
+- **Furnishings**: ₹189,239
+- **Supplies**: ₹167,380
 - **Envelopes**: ₹114,880
 - **Fasteners**: ₹10,342
 
